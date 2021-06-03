@@ -1,26 +1,10 @@
 #include "Funkcje.h"
 
-// Sinus::Sinus()
-// {
-//     _a = 0;
-//     _b = 0;
-// }
-
 Sinus::Sinus(double a, double b)
 {
     _a = a;
     _b = b;
 }
-
-PierwiastekKwadratowy::PierwiastekKwadratowy()
-{
-    
-}
-
-// Liniowa::Liniowa()
-// {
-
-// }
 
 Liniowa::Liniowa(double a, double b)
 {
